@@ -67,4 +67,3 @@ Repositori ini berisi rangkuman komprehensif, materi perkuliahan, serta kode imp
 2. KNIME Analytics Platform:
   - Unduh dan buka aplikasi KNIME Analytics Platform.
   - Impor file workflow (.knwf) atau buat workflow baru menggunakan prompt K-AI Assistant yang tersedia pada rangkuman materi.
-  - 
